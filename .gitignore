@@ -3,4 +3,5 @@
 cmake-build-debug
 build
 venv
+__pycache__
 
